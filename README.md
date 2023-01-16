@@ -1,7 +1,7 @@
 # reading-notes
 
 ## Hi my name is Femi. I am learning to code.
-My interests are exploring new music *(always open for suggestions)* and creating artwork through visualising sound, I also like reserching innovative ideas within sceience, technology and architecture that positively impact humanity. I see collaboration and team thinking as the best way to enhance any project.
+My interests are exploring new music *(always open for suggestions)* and creating artwork through visualising sound, I also like reserching innovative ideas within science, technology and architecture that positively impact humanity. I really enjoy collaborating with people in all different types of projects.
 
 ## what is this website?
 
