@@ -18,13 +18,14 @@ This is my reading notes for the full stack bootcamp.
 
 For example;
 - [x] Begin Full Stack Bootcamp 
-- [ ] Learn a programming Languauge
+- [ ] Learn a programming Language
 - [ ] Take the time to reflect on your effort
-- [ ] Learn another...programming Languauge
+- [ ] Learn another...programming Language
 - [ ] Do a motivational dance <sup> / whatever works for you </sup>
 - [ ] Feel good about your progress, the connections you have made in your brain and with others on the course:tada:
 
 
 Here is a link to my [Github Profile](https://github.com/femidacosta).
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
