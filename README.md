@@ -8,4 +8,4 @@ I love exploring music and creating art.
 This is my reading notes for the full stack bootcamp. 
 
 ## Growth mindset is...
-perservering with a task or project, gaining confidence and empowerment. Changing a cant do attitude to a can do anything attitude.
+perservering with a task or project, gaining confidence and empowerment. Changing a I cant do this attitude to a can do anything attitude.
