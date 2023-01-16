@@ -1,7 +1,7 @@
 # reading-notes
 
 ## Hi my name is Femi. I am learning to code.
-I love exploring new music <sub>(always open for suggestions)</sub> and I like creating artwork through visualising sound.
+My interests are exploring new music <sub>(always open for suggestions)</sub> and creating artwork through visualising sound, I also like reserching innovative ideas within sceience, technology and architecture that positively impact humanity. I see collaboration and team thinking as the way forward.
 
 ## what is this website?
 
@@ -25,4 +25,6 @@ For example;
 - [ ] Feel good about your progress, the connections you have made in your brain and with others on the course:tada:
 
 
+Here is a link to my Github Profile 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
