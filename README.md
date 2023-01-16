@@ -13,7 +13,7 @@ This is my reading notes for the full stack bootcamp.
 
 **A _Growth mindset_ is...**
 - Believing in yourself to learn something new
-* Persevering with the task or project, gaining confidence through learning from challenges and gainging self empowerment. 
+* Persevering with the task or project, gaining confidence through learning from challenges and gaining self empowerment. 
 + Changing a *I cant do this* attitude to a **I can do anything** attitude with a blend of creativity and determination.
 
 For example;
@@ -22,7 +22,7 @@ For example;
 - [ ] Take the time to reflect on your effort
 - [ ] Learn another...programming Language
 - [ ] Do a motivational dance <sup> / whatever works for you </sup>
-- [ ] Feel good about your progress, the connections you have made in your brain and with others on the course:tada:
+- [ ] Feel good about your progress, the connections you have made in your brain and with others on the course :tada:
 
 
 Here is a link to my [Github Profile](https://github.com/femidacosta).
