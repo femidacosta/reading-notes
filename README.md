@@ -25,6 +25,6 @@ For example;
 - [ ] Feel good about your progress, the connections you have made in your brain and with others on the course:tada:
 
 
-Here is a link to my Github Profile 
+Here is a link to my [Github Profile](https://github.com/femidacosta).
 This site was built using [GitHub Pages](https://pages.github.com/).
 
