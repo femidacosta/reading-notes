@@ -1,4 +1,7 @@
 # reading-notes
+## table of contents:
+
+[Class 02](https://femidacosta.github.io/reading-notes/class-02)
 
 ## Hi my name is Femi. I am learning to code.
 My interests are exploring new music *(always open for suggestions)* and creating artwork through visualising sound, I also like researching innovative ideas within science, technology and architecture that positively impact humanity. 
