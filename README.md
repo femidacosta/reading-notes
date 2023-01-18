@@ -1,13 +1,13 @@
 # reading-notes
 ## Table of contents:
 
-[Class-02](https://femidacosta.github.io/reading-notes/class-02.md)
-[Class-03](https://femidacosta.github.io/reading-notes/class-03.md)
-[Class-04](https://femidacosta.github.io/reading-notes/class-04.md)
-[Class-05](https://femidacosta.github.io/reading-notes/class-05.md)
-[Class-06](https://femidacosta.github.io/reading-notes/class-06.md)
-[Class-07](https://femidacosta.github.io/reading-notes/class-07.md)
-[Class-08](https://femidacosta.github.io/reading-notes/class-08.md)
+[Class-02](https://femidacosta.github.io/reading-notes/102/class-02)  
+[Class-03](https://femidacosta.github.io/reading-notes/102/class-03)  
+[Class-04](https://femidacosta.github.io/reading-notes/102/class-04)  
+[Class-05](https://femidacosta.github.io/reading-notes/102/class-05)  
+[Class-06](https://femidacosta.github.io/reading-notes/102/class-06)  
+[Class-07](https://femidacosta.github.io/reading-notes/102/class-07)  
+[Class-08](https://femidacosta.github.io/reading-notes/102/class-08)  
 
 
 ## Hi my name is Femi. I am learning to code.
@@ -33,7 +33,7 @@ For example;
 - [ ] Feel good about your progress, the connections you have made in your brain and with others on the course :tada:
 
 
-Here is a link to my [Github Profile](https://github.com/femidacosta).
+Here is a link to my [Github Profile](https://github.com/femidacosta).  
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
