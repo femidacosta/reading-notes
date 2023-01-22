@@ -1,13 +1,13 @@
 # reading-notes
 ## Table of contents:
 
-[Class-02](https://femidacosta.github.io/reading-notes/102/Class-02)  
-[Class-03](https://femidacosta.github.io/reading-notes/102/Class-03)  
-[Class-04](https://femidacosta.github.io/reading-notes/102/Class-04)  
-[Class-05](https://femidacosta.github.io/reading-notes/102/Class-05)  
-[Class-06](https://femidacosta.github.io/reading-notes/102/Class-06)  
-[Class-07](https://femidacosta.github.io/reading-notes/102/Class-07)  
-[Class-08](https://femidacosta.github.io/reading-notes/102/Class-08)  
+Go [Class-02](https://femidacosta.github.io/reading-notes/102/Class-02)  
+Go [Class-03](https://femidacosta.github.io/reading-notes/102/Class-03)  
+Go [Class-04](https://femidacosta.github.io/reading-notes/102/Class-04)  
+Go [Class-05](https://femidacosta.github.io/reading-notes/102/Class-05)  
+Go [Class-06](https://femidacosta.github.io/reading-notes/102/Class-06)  
+Go [Class-07](https://femidacosta.github.io/reading-notes/102/Class-07)  
+Go [Class-08](https://femidacosta.github.io/reading-notes/102/Class-08)  
 
 
 ## Hi my name is Femi. I am learning to code.
