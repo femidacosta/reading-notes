@@ -1,21 +1,23 @@
 # reading-notes
 ## Table of contents:
 
-[Class-02](https://femidacosta.github.io/reading-notes/102/Class-02)  
-[Class-03](https://femidacosta.github.io/reading-notes/102/Class-03)  
-[Class-04](https://femidacosta.github.io/reading-notes/102/Class-04)  
-[Class-05](https://femidacosta.github.io/reading-notes/102/Class-05)  
-[Class-06](https://femidacosta.github.io/reading-notes/102/Class-06)  
-[Class-07](https://femidacosta.github.io/reading-notes/102/Class-07)  
-[Class-08](https://femidacosta.github.io/reading-notes/102/Class-08)  
+Go to [Class-01](https://femidacosta.github.io/reading-notes/class-01.md)
+Go to [Class-02](https://femidacosta.github.io/reading-notes/class-02.md)
+Go to [Class-03](https://femidacosta.github.io/reading-notes/class-03.md)
+Go to [Class-04](https://femidacosta.github.io/reading-notes/class-04.md)
+Go to [Class-05](https://femidacosta.github.io/reading-notes/class-05.md)
+Go to [Class-06](https://femidacosta.github.io/reading-notes/class-06.md)
+Go to [Class-07](https://femidacosta.github.io/reading-notes/class-07.md)
+Go to [Class-08](https://femidacosta.github.io/reading-notes/class-08.md)
 
 
-## Hi my name is Femi. I am learning to code.
+## Hi my name is Femi. I am studying software development.
+
 My interests are exploring new music *(always open for suggestions)* and creating artwork through visualising sound, I also like researching innovative ideas within science, technology and architecture that positively impact humanity. 
 
 ## What is this website?
 
-This website shows my reading notes for the full stack bootcamp. 
+This website shows my reading notes for the full stack bootcamp. I have completed the first module called 102, please click the links in the navigation to view my notes.
 
 ![This is an image](https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
@@ -33,7 +35,7 @@ For example;
 - [ ] Feel good about your progress, the connections you have made in your brain and with others on the course :tada:
 
 
-Here is a link to my [Github Profile](https://github.com/femidacosta).  
+Here is a link to my [Github Profile](https://github.com/femidacosta).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
