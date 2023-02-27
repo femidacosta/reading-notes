@@ -1,5 +1,10 @@
 my code for lab 02 (JS)
 
+
+My JS code for Lab 02 
+
+
+
 ```
 "use strict";
 let user = prompt("What is your name?");

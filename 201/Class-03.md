@@ -1,6 +1,6 @@
 201 Class-03
 
-<h1> </h1>
+<h1>201 -Class 03- HTML Lists, Control Flow with JS, and the CSS Box Model </h1>
 
 <p>Similar to a list , we hold data with arrays.<br>
 it is important to keep arrays in same file as JS unless you have a large amount of data and it makes sense to put it in its own JS file.</p>
@@ -35,3 +35,9 @@ console.log(output);
 
 //the whole item of the new array is index 3
 // to get the word russel the second item would be
+
+_Flex Box_
+Flexbox allows you to create a flexible column or row in the UI using Axis
+example:
+
+<img src="img/some of 4 and 7 .png">
