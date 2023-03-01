@@ -12,10 +12,6 @@ React.Js is a Js library. - it makes life easier
 
 A component can be explained by looking at a header function; If you want to style a header on every page, you can write a block of code to do this rather than write that code for each page.
 
-REACT is a declarative, component based, Open source Library for building user interfaces.
-
-**functional components produce cleaner code.**
-
 What is the difference between an arrow function and a function declaration?
 You have to declare an arrow function .....
 
