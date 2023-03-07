@@ -32,7 +32,7 @@ Back in the terminal run;
  ➜ server touch server.js
 ➜  server touch .env
 ➜  server touch .gitignore```
-````
+```
 
 //Lets create API
 `"use strict";`
@@ -77,6 +77,7 @@ package needs nodemon and also the computer needs to know its installing nodemon
 run;
 
 ````
+
 nodemon server```
 
 everytime file saves , it will restart the server
@@ -84,4 +85,7 @@ everytime file saves , it will restart the server
 Note:
 =>{}
 this is a callback function
-````
+
+```
+
+```
