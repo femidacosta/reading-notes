@@ -1,14 +1,14 @@
 # reading-notes
 ## Table of contents:
 
-Go to [Class-01](https://femidacosta.github.io/reading-notes/class-01)
-Go to [Class-02](https://femidacosta.github.io/reading-notes/class-02)
-Go to [Class-03](https://femidacosta.github.io/reading-notes/class-03)
-Go to [Class-04](https://femidacosta.github.io/reading-notes/class-04)
-Go to [Class-05](https://femidacosta.github.io/reading-notes/class-05)
-Go to [Class-06](https://femidacosta.github.io/reading-notes/class-06)
-Go to [Class-07](https://femidacosta.github.io/reading-notes/class-07)
-Go to [Class-08](https://femidacosta.github.io/reading-notes/class-08)
+Go to [Class-01](https://femidacosta.github.io/reading-notes/Class-01)
+Go to [Class-02](https://femidacosta.github.io/reading-notes/Class-02)
+Go to [Class-03](https://femidacosta.github.io/reading-notes/Class-03)
+Go to [Class-04](https://femidacosta.github.io/reading-notes/Class-04)
+Go to [Class-05](https://femidacosta.github.io/reading-notes/Class-05)
+Go to [Class-06](https://femidacosta.github.io/reading-notes/Class-06)
+Go to [Class-07](https://femidacosta.github.io/reading-notes/Class-07)
+Go to [Class-08](https://femidacosta.github.io/reading-notes/Class-08)
 
 
 ## Hi my name is Femi. I am studying software development.
