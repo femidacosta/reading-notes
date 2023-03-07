@@ -18,8 +18,8 @@ make page title
 parent - destructer - put brackets in fucntion and change it
 also put it in the p tag to set the title
 
-information can only go downwards
-but we can use 'liftState' ... to go up.
+<h2>**information can only go downwards
+but we can use 'liftState' ... to go up.**<h2>
 
 eg. if you have props or an item that you want to send from child to parent . - have a click event in the child.js , effect the header.js
 
@@ -54,9 +54,11 @@ eg
 in header.
 ````
 
-export default function Child({ pageTitle , clicksOnBuilding}) {```
+export default function Child({ pageTitle , clicksOnBuilding}) ```
 
 NB>
 ((you can delete node modules from past projects your not using
 and then replace them back when you need them with npmi
 to save on space. ))
+
+Map- works along with arrays
